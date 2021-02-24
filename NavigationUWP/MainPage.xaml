@@ -27,7 +27,7 @@
                         <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE7FC;"/>
                     </NavigationViewItem.Icon>
                 </NavigationViewItem>
-                <NavigationViewItem Tag="euro" Icon="Audio" Content="Euro"/>
+                <NavigationViewItem Tag="euro" Icon="Audio" Content="Euro ticket"/>
             </NavigationView.MenuItems>
         </NavigationView>
 
