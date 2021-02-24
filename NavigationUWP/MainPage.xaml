@@ -17,7 +17,7 @@
                 <NavigationViewItem Tag="home" Icon="Home" Content="Home"/>
                 <NavigationViewItemSeparator/>
                 <NavigationViewItemHeader x:Name="MainPages" Content="Main Pages" />
-                <NavigationViewItem Tag="cust" Content="Cust">
+                <NavigationViewItem Tag="cust" Content="Cust Ticket">
                     <NavigationViewItem.Icon>
                         <FontIcon FontFamily="SegoeMDL2 Assets" Glyph="&#xE77B;"/>
                     </NavigationViewItem.Icon>
