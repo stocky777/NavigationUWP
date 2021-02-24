@@ -22,7 +22,7 @@
                         <FontIcon FontFamily="SegoeMDL2 Assets" Glyph="&#xE77B;"/>
                     </NavigationViewItem.Icon>
                 </NavigationViewItem>
-                <NavigationViewItem Tag="lotto" Content="Lotto">
+                <NavigationViewItem Tag="lotto" Content="Lotto Ticket">
                     <NavigationViewItem.Icon>
                         <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE7FC;"/>
                     </NavigationViewItem.Icon>
