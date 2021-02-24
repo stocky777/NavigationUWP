@@ -9,6 +9,9 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-
+        <StackPanel Orientation="Vertical">
+                <TextBlock Text="bye everybody"/>
+                <TextBlock Text="bye everybody"/>
+        </StackPanel>
     </Grid>
 </Page>
